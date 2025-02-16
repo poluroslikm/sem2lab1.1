@@ -1,0 +1,9 @@
+﻿  lab1_bits241_sigov_medzhidov.cpp
+C:\Users\Poluroslik M\Desktop\lab1_bits241_sigov_medzhidov\lab1_bits241_sigov_medzhidov\lab1_bits241_sigov_medzhidov.cpp(24,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Poluroslik M\Desktop\lab1_bits241_sigov_medzhidov\lab1_bits241_sigov_medzhidov\lab1_bits241_sigov_medzhidov.cpp(25,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Poluroslik M\Desktop\lab1_bits241_sigov_medzhidov\lab1_bits241_sigov_medzhidov\lab1_bits241_sigov_medzhidov.cpp(27,10): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Poluroslik M\Desktop\lab1_bits241_sigov_medzhidov\lab1_bits241_sigov_medzhidov\lab1_bits241_sigov_medzhidov.cpp(51,24): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Poluroslik M\Desktop\lab1_bits241_sigov_medzhidov\lab1_bits241_sigov_medzhidov\lab1_bits241_sigov_medzhidov.cpp(51,46): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Poluroslik M\Desktop\lab1_bits241_sigov_medzhidov\lab1_bits241_sigov_medzhidov\lab1_bits241_sigov_medzhidov.cpp(53,24): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Poluroslik M\Desktop\lab1_bits241_sigov_medzhidov\lab1_bits241_sigov_medzhidov\lab1_bits241_sigov_medzhidov.cpp(53,46): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+  lab1_bits241_sigov_medzhidov.vcxproj -> C:\Users\Poluroslik M\Desktop\lab1_bits241_sigov_medzhidov\x64\Debug\lab1_bits241_sigov_medzhidov.exe
